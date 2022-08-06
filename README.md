@@ -1,4 +1,4 @@
-![ishanpuri](/public/static/images/ishanpuri.png)
+![ishanpuri](/public/static/images/IshanPuri.jpg)
 
 # Ishan Puri
 
